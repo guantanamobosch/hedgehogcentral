@@ -1,0 +1,17 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #2D82B7;
+}
+
+
+#site-name {
+    color: #dfe2df;
+}
+
+#navbar-links {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    color: #dfe2df;
+}
